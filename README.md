@@ -5,8 +5,8 @@ Please go directly to SupplementaryMaterial.pdf to see the proofs of theorems.
 
 ## Source - QCNs:
 
-![Test Image 1](OntologyQCN.png)
+![Image 1](OntologyQCN.PNG)
 
 ## Merged Result:
 
-![Test Image 1](Result.png)
+![Image 2](Result.PNG)
