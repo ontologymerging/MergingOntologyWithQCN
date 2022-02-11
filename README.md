@@ -3,6 +3,11 @@ Using Qualitative Constraint Network to merge Terminiological Knowledge
 
 Please go directly to SupplementaryMaterial.pdf to see the proofs of theorems.
 
+How to run the Ontology Merging application:
+```
+python3 MergingQCN_Version2.py
+```
+
 ## Source - QCNs:
 
 ![Image 1](OntologyQCN.PNG)
