@@ -7,11 +7,14 @@ How to run the Ontology Merging application:
 ```
 python3 MergingQCN_Version2.py
 ```
+## Noisy Ontologies:
+
+![Image 1](NoisyOntologyList.PNG)
 
 ## Source - QCNs:
 
-![Image 1](OntologyQCN.PNG)
+![Image 2](OntologyQCN.PNG)
 
 ## Merged Result:
 
-![Image 2](Result.PNG)
+![Image 3](Result.PNG)
